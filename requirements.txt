@@ -1,0 +1,8 @@
+streamlit==1.19.0
+pydub==0.25.1
+together==0.1.0
+docx==0.0.0
+http.client  # Note: This is part of the standard library, so it's not needed in requirements.txt
+yt-dlp==2024.8.7
+whisper==1.0.0
+fpdf==1.7.2
