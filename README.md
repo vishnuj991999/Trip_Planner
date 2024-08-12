@@ -21,3 +21,12 @@ main.py: Streamlit app interface for user interaction.
 
 This `README.md` provides a clear overview of your project, installation instructions, and a brief explanation of each script. Adjust the repository link and other specifics as needed.
 
+![image](https://github.com/user-attachments/assets/c645cfc9-4b0d-485a-b86f-ae618c3da447)
+
+![image](https://github.com/user-attachments/assets/959e877e-007b-4193-bc64-c7b4eedfce90)
+
+![image](https://github.com/user-attachments/assets/8971b2f4-3064-4d72-a0a4-151e2963570b)
+
+![image](https://github.com/user-attachments/assets/c5b3dd02-83c4-410d-9d85-cebeb0c49d4b)
+
+
