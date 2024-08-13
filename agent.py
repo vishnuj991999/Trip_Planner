@@ -11,7 +11,7 @@ def ticket_booking_agent(source, destination, mode):
             "q": f"Trip from {source} to {destination} via {mode}. Provide options, price, timing, etc."
         })
         headers = {
-            'X-API-KEY': '92f001a3eb91d20af265a2c7a4bba43e1f2bd200',
+            'X-API-KEY': 'YOUR_API_KEY',
             'Content-Type': 'application/json'
         }
         conn.request("POST", "/search", payload, headers)
