@@ -11,7 +11,7 @@ def generate_trip_plan(source, destination, mode, days, ih):
     agent_2_data = outing_planner_agent(destination, days, ih)
 
     # Generate responses
-    api_key = "YOUR_API_KEY"
+    api_key = "64880c44ef37384040dc253c954ed2f190c0e4702c3e80745e5eb78221f47376"
     model = "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo"
     
     agent_1_output = generate_response(f"Explain this: {agent_1_data}", model, api_key, 500, 0.11)
